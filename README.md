@@ -15,4 +15,5 @@ function startPiP() {
 }
 startPiP();
 ```
+  * Sometimes you need to click Pause and then play before you run this code.
 4. Ready (Close Inspector)
